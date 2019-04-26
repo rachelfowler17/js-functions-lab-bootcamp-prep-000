@@ -1,1 +1,1 @@
-function happyHolidays() {console.log ("happy,Holidays!") } 
+function happyHolidays() {returns ("happy,Holidays!") } 
