@@ -1,1 +1,1 @@
-function sayhappyHolidays() {returns ("happy,Holidays!") } 
+function sayHappyholidays() {returns ("Happy,holidays!") } 
